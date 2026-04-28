@@ -1,2 +1,7 @@
-# demo-dentale-consultorio-odontologico
-Demo web para Dentale Consultorio odontologico — diseñada por eterlab.
+# Dentale Consultorio odontologico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
